@@ -1,4 +1,7 @@
 # ruler-svg
+
+![alt text](https://raw.githubusercontent.com/ingin/ruler-svg/master/ruler-svg.png)
+
 Vérifiez que l'image est bien alignée sur le bord gauche de votre écran et que le contenu de votre image SVG à bien une couleur de fond
 ```html
 <style>
